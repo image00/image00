@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimage00%2Fhit-counter&count_bg=%23DC4DC3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 안녕하세요, 금융 & 공간분석 도메인 기반의 IT 전문가가 목표인 개발자, 임예지입니다.
+### 안녕하세요, 성장하는 개발자, 임예지입니다.
 
 #### INTERESTS
 
@@ -32,7 +32,7 @@
 
 <br />
 
-### 🚌 Top Langs & Algorithm
+<!-- ### 🚌 Top Langs & Algorithm
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=image00&layout=compact)
 
@@ -41,7 +41,7 @@
 ![image00's GitHub stats](https://github-readme-stats.vercel.app/api?username=image00&show_icons=true&theme=transparent)
 
 <br />
-
+-->
 
 <!--
 **image00/image00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
