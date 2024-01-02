@@ -36,8 +36,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=image00&layout=compact)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imkj00)](https://solved.ac/profile/imkj00)
+<!--[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imkj00)](https://solved.ac/profile/imkj00)-->
 ![image00's GitHub stats](https://github-readme-stats.vercel.app/api?username=image00&show_icons=true&theme=transparent)
 
 <br />
