@@ -36,13 +36,25 @@
 
 ### 🚌 Top Langs & Algorithm
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=image00&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=image00&layout=compact)-->
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=image00&count_private=true&layout=compact&theme=nord&hide_border=true" /></a> 
 
 <!--[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imkj00)](https://solved.ac/profile/imkj00)-->
 <!--![image00's GitHub stats](https://github-readme-stats.vercel.app/api?username=image00&show_icons=true&theme=transparent)-->
 [![image00's GitHub stats](https://github-readme-stats.vercel.app/api?username=image00&include_all_commits=true&count_private=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
 <br />
+
+
+<br />
+
+### trophy
+
+<img src="https://github-profile-trophy.vercel.app/?username=image00&margin-w=15&row=2&column=4">
+<!--
+<img src="https://github-profile-trophy.vercel.app/?username=image00&margin-w=15&row=2&column=4&no-frame=true&theme=onedark">-->
+
+
 
 <!--
 **image00/image00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
